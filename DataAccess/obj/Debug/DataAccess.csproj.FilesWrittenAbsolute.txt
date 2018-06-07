@@ -1,0 +1,7 @@
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccess/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccess/bin/Debug/Google.Protobuf.dll
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccess/bin/Debug/MySql.Data.dll
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccess/bin/Debug/DataAccess.pdb
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccess/bin/Debug/DataAccess.dll
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccess/obj/Debug/DataAccess.dll
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccess/obj/Debug/DataAccess.pdb

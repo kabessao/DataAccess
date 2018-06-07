@@ -1,0 +1,10 @@
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/bin/Debug/DataAccessTest.pdb
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/bin/Debug/DataAccessTest.dll
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/obj/Debug/DataAccessTest.dll
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/obj/Debug/DataAccessTest.pdb
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/bin/Debug/nunit.framework.dll
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/bin/Debug/DataAccess.dll
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/bin/Debug/DataAccess.pdb
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/bin/Debug/MySql.Data.dll
+/run/media/kabessao/stuff/vmwindows/DataAccess/DataAccessTest/bin/Debug/Google.Protobuf.dll
